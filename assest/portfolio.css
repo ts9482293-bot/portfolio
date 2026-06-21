@@ -651,6 +651,10 @@ ul {
     margin: 0 auto !important;
     text-align: center !important;
   }
+  .nav-link{
+    font-size: 14px;
+    margin: 0 15px;
+  }
   .form-col {
     display: flex;
     justify-content: center;

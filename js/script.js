@@ -38,40 +38,40 @@ this.classList.add("active");
 
 const projects = [
   {
-    title: "Hill Family",
+    title: "Local-Pro-Services",
     category: "web",
-    image: "./portfolioimg/Screenshot (177).png",
-    link: "#"
+    image: "./portfolioimg/Screenshot 2026-06-21 204119.png",
+    link: "https://ts9482293-bot.github.io/Sdlc/index.html"
   },
   {
-    title: "Education Website",
+    title: "NftX",
     category: "web",
-    image: "./portfolioimg/Screenshot (176).png",
-    link: "#"
+    image: "./portfolioimg/Screenshot 2026-06-21 204458.png",
+    link: "https://ts9482293-bot.github.io/Nftx/"
   },
   {
-    title: "Cabinet Mark",
+    title: "AI POWERED DIGITAL SOLOUTION",
     category: "desktop",
-    image: "./portfolioimg/Screenshot (173).png",
-    link: "#"
+    image: "./portfolioimg/Screenshot 2026-06-21 202138.png",
+    link: "https://ts9482293-bot.github.io/Finalproject/"
   },
   {
-    title: "Assessment",
+    title: "Fitling",
     category: "mobile",
-    image: "./portfolioimg/Screenshot (175).png",
-    link: "#"
+    image: "./portfolioimg/Screenshot 2026-06-21 205010.png",
+    link: "https://ts9482293-bot.github.io/Fitness/"
   },
   {
     title: "Beacon One Capital",
     category: "branding",
     image: "./portfolioimg/Screenshot (172).png",
-    link: "#"
+    link: "https://ts9482293-bot.github.io/Beacon-One/"
   },
   {
-    title: "Amazon Clone",
+    title: "BENJI BAKES",
     category: "web",
-    image: "./portfolioimg/Screenshot (178).png",
-    link: "#"
+    image: "./portfolioimg/Screenshot 2026-06-21 201501.png",
+    link: "https://ts9482293-bot.github.io/benjibakes/"
   }
 ];
 
